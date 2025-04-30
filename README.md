@@ -1,6 +1,7 @@
 # Multi-Function Pneumatic Controlled 3D-Printed Gripper
 
 ## Demo Video
+https://github.com/user-attachments/assets/9cab5a5b-de6a-4cd8-8973-40af0181549d
 
 ## Gripper Images
 
